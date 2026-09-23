@@ -1,0 +1,5057 @@
+{
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_blossom_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/easy_hopper": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_jungle_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/apple_crateuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_spruce_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/better_stone_tools/sword": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/better_stone_tools/axe": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/golden_carrot_crateuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_jungle_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/beetroot_crateuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/hopper_minecart": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/berry_sackuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_birch_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_spruce_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/tools/tools/crafting/seed_pouch": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_acacia_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/gunpowder_sackuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/charcoal_to_black_dye": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/better_stone_tools/hoe": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/charcoal_blockuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/tnt_minecart": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_oak_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/golden_apple_crateuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/building_blocks/world/crafting/permafrost_bricks": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/coral/horn_to_yellow": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/dispenser_bow": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/dispenser_no_bow": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_mangrove_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/stick_blockuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/coral/fire_to_red": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_birch_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/sugar_cane_blockuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_oak_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/nether_wart_sackuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/furnace_minecart": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_dark_oak_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_mangrove_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/carrot_crateuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/better_stone_tools/pickaxe": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/building_blocks/world/crafting/walls/permafrost_wall": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/cocoa_beans_sackuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/repeater": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/chest_minecart": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/food/tweaks/crafting/utility/bent/bread": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/easy_sticks": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_warped_stem": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/coral/brain_to_pink": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/misc/easy_sticks_bamboo": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_bamboo_chest_raft": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/cactus_blockuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/building_blocks/world/crafting/walls/permafrost_bricks_wall": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "grapplemod:hidden/unlock_grappling_hook_recipie": {
+    "criteria": {
+      "auto_unlock": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/coral/bubble_to_magenta": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_cherry_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/bonded_leatheruncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/bonded_rabbit_hideuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_cherry_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/coral/tube_to_blue": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/chest_boat/direct_dark_oak_chest_boat": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/potato_crateuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_acacia_log": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/better_stone_tools/shovel": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-09-23 18:19:00 +0200",
+      "minecraft:deep_dark": "2026-09-23 19:10:59 +0200",
+      "minecraft:plains": "2026-09-23 16:49:39 +0200"
+    },
+    "done": false
+  },
+  "quark:recipes/misc/building/crafting/hollowlogs/hollow_crimson_stem": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/glowberry_sackuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/building/crafting/compressed/chorus_fruit_blockuncompress": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/food/tweaks/crafting/utility/bent/cookie": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "quark:recipes/misc/tweaks/crafting/utility/bent/paper": {
+    "criteria": {
+      "test": "2026-09-23 16:49:39 +0200"
+    },
+    "done": true
+  },
+  "natures_delight:recipes/cooking/coconut_bread": {
+    "criteria": {
+      "has_coconut_half": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "simulated:root": {
+    "criteria": {
+      "0": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "natures_delight:recipes/cooking/coconut_pancakes": {
+    "criteria": {
+      "has_coconut_half": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:root": {
+    "criteria": {
+      "0": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/frying_pan": {
+    "criteria": {
+      "has_iron": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "windchimes:recipes/decorations/iron_chime": {
+    "criteria": {
+      "has_material": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/shapeless_rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/knife": {
+    "criteria": {
+      "has_iron": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/spring_launcher": {
+    "criteria": {
+      "has_tag_c_ingots_iron_1": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/faucet": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/wind_vane": {
+    "criteria": {
+      "has_tag_c_ingots_iron_1": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pulley": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "natures_delight:recipes/cooking/cocada": {
+    "criteria": {
+      "has_coconut_half": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cage": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/dispenser_minecart_quark": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "natures_delight:recipes/cooking/coconut_sauce": {
+    "criteria": {
+      "has_coconut_half": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cooking_pot": {
+    "criteria": {
+      "has_iron": "2026-09-23 16:52:08 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_corn": {
+    "criteria": {
+      "has_corn": "2026-09-23 16:56:40 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_seed": {
+    "criteria": {
+      "has_corn": "2026-09-23 16:56:40 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_bread": {
+    "criteria": {
+      "has_corn": "2026-09-23 16:56:40 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_smoking_corn": {
+    "criteria": {
+      "has_corn": "2026-09-23 16:56:40 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/corn_crate": {
+    "criteria": {
+      "has_corn": "2026-09-23 16:56:40 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/oats_bag": {
+    "criteria": {
+      "has_oat": "2026-09-23 16:56:42 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/oat_seed": {
+    "criteria": {
+      "has_oat": "2026-09-23 16:56:42 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/bell_pepper_crate": {
+    "criteria": {
+      "has_bellpepper": "2026-09-23 16:56:45 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2026-09-23 16:56:45 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2026-09-23 16:57:10 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-09-23 16:57:10 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-09-23 16:57:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/jerky": {
+    "criteria": {
+      "has_raw_meat": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/pumpkin_soup": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/noodle_soup": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:57:11 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/sugi_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/ghaf_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/saxaul_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/coconut_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/olive_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cedar_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-09-23 16:57:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2026-09-23 20:13:02 +0200",
+      "minecraft:skeleton": "2026-09-23 18:28:55 +0200",
+      "minecraft:spider": "2026-09-23 18:09:48 +0200",
+      "minecraft:zombie": "2026-09-23 18:06:24 +0200",
+      "minecraft:creeper": "2026-09-23 19:44:17 +0200",
+      "minecraft:zombie_villager": "2026-09-23 16:57:21 +0200",
+      "minecraft:slime": "2026-09-23 18:52:21 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-09-23 16:57:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2026-09-23 16:57:21 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/cypress_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/cypress_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/cypress_sign": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/cypress_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/turn_table": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cypress_slab": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/cypress_door": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/redstone/cypress_button": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cypress_stairs": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/cypress_fence": {
+    "criteria": {
+      "has_planks": "2026-09-23 16:57:30 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2026-09-23 16:57:44 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2026-09-23 16:57:44 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2026-09-23 16:57:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-09-23 16:57:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2026-09-23 17:23:59 +0200",
+      "bread": "2026-09-23 17:31:08 +0200",
+      "cooked_mutton": "2026-09-23 16:57:47 +0200",
+      "baked_potato": "2026-09-23 18:38:19 +0200"
+    },
+    "done": false
+  },
+  "cratedelightcroptopia:recipes/building_blocks/ginger_crate": {
+    "criteria": {
+      "has_ginger": "2026-09-23 16:58:24 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/leek_crate": {
+    "criteria": {
+      "has_leek": "2026-09-23 16:58:24 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/leek_seed": {
+    "criteria": {
+      "has_leek": "2026-09-23 16:58:24 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/ginger_seed": {
+    "criteria": {
+      "has_ginger": "2026-09-23 16:58:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/garlic_crate": {
+    "criteria": {
+      "has_garlic": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/misc/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_egg": {
+    "criteria": {
+      "has_wheat": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/beer_from_water": {
+    "criteria": {
+      "has_wheat": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blueberry_jam": {
+    "criteria": {
+      "has_blueberry": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/misc/apply_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/blueberry_bag": {
+    "criteria": {
+      "has_blueberry": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blueberry_seed": {
+    "criteria": {
+      "has_blueberry": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_straw": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/blueberry_jam": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/garlic_seed": {
+    "criteria": {
+      "has_garlic": "2026-09-23 16:58:25 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/barley_seed": {
+    "criteria": {
+      "has_barley": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/rice_seed": {
+    "criteria": {
+      "has_rice": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/barley_crate": {
+    "criteria": {
+      "has_barley": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/onion_seed": {
+    "criteria": {
+      "has_onion": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomatillo_seed": {
+    "criteria": {
+      "has_tomatillo": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pepper_seed": {
+    "criteria": {
+      "has_pepper": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/green_bean_crate": {
+    "criteria": {
+      "has_greenbean": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/tomatillo_crate": {
+    "criteria": {
+      "has_tomatillo": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/zucchini_crate": {
+    "criteria": {
+      "has_zucchini": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/burrito": {
+    "criteria": {
+      "has_rice": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/zucchini_seed": {
+    "criteria": {
+      "has_zucchini": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/greenbean_seed": {
+    "criteria": {
+      "has_greenbean": "2026-09-23 16:58:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/rutabaga_seed": {
+    "criteria": {
+      "has_rutabaga": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/rutabaga_crate": {
+    "criteria": {
+      "has_rutabaga": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_yam_from_smoking_yam": {
+    "criteria": {
+      "has_yam": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/broccoli_seed": {
+    "criteria": {
+      "has_broccoli": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/sweet_potato_crate": {
+    "criteria": {
+      "has_sweetpotato": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/yam_crate": {
+    "criteria": {
+      "has_yam": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/yam_seed": {
+    "criteria": {
+      "has_yam": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/green_onion_crate": {
+    "criteria": {
+      "has_greenonion": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/greenonion_seed": {
+    "criteria": {
+      "has_greenonion": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/broccoli_crate": {
+    "criteria": {
+      "has_broccoli": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_yam_from_yam": {
+    "criteria": {
+      "has_yam": "2026-09-23 16:58:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/asparagus_seed": {
+    "criteria": {
+      "has_asparagus": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/olive_seed": {
+    "criteria": {
+      "has_olive": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_seed": {
+    "criteria": {
+      "has_cabbage": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/asparagus_crate": {
+    "criteria": {
+      "has_asparagus": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/borscht": {
+    "criteria": {
+      "has_cabbage": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/turmeric_seed": {
+    "criteria": {
+      "has_turmeric": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/olive_bag": {
+    "criteria": {
+      "has_olive": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_turmeric": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_roll": {
+    "criteria": {
+      "has_cabbage": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/borscht": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/goulash": {
+    "criteria": {
+      "has_cabbage": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/turmeric_crate": {
+    "criteria": {
+      "has_turmeric": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2026-09-23 16:58:29 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/turnip_crate": {
+    "criteria": {
+      "has_turnip": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/vanilla_crate": {
+    "criteria": {
+      "has_vanilla": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/turnip_seed": {
+    "criteria": {
+      "has_turnip": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/vanilla_ice_cream": {
+    "criteria": {
+      "has_vanilla": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/vanilla_ice_cream": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/vanilla_seeds": {
+    "criteria": {
+      "has_vanilla": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/soybeans_bag": {
+    "criteria": {
+      "has_soybean": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/soybean_seed": {
+    "criteria": {
+      "has_soybean": "2026-09-23 16:58:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/ratatouille": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/baked_cod_stew": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/beetroot_soup": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/vegetable_soup": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/beef_stew": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/vodka_from_water": {
+    "criteria": {
+      "has_potato": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/beetroot_salad": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:58:54 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/chile_pepper_crate": {
+    "criteria": {
+      "has_chile_pepper": "2026-09-23 16:58:55 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/kiwi_seed": {
+    "criteria": {
+      "has_kiwi": "2026-09-23 16:58:55 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/chile_pepper_seed": {
+    "criteria": {
+      "has_chile_pepper": "2026-09-23 16:58:55 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/kiwi_crate": {
+    "criteria": {
+      "has_kiwi": "2026-09-23 16:58:55 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/squash_crate": {
+    "criteria": {
+      "has_squash": "2026-09-23 16:59:35 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/squash_seed": {
+    "criteria": {
+      "has_squash": "2026-09-23 16:59:35 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/raspberry_jam": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/hops_crate": {
+    "criteria": {
+      "has_hops": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beer": {
+    "criteria": {
+      "has_hops": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/celery_seed": {
+    "criteria": {
+      "has_celery": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/raspberry_jam": {
+    "criteria": {
+      "has_raspberry": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/raspberry_seed": {
+    "criteria": {
+      "has_raspberry": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/celery_crate": {
+    "criteria": {
+      "has_celery": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/hops_seed": {
+    "criteria": {
+      "has_hops": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/raspberry_crate": {
+    "criteria": {
+      "has_raspberry": "2026-09-23 16:59:38 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/chicken_soup": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/eggplant_crate": {
+    "criteria": {
+      "has_eggplant": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/fried_rice": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peanut_seed": {
+    "criteria": {
+      "has_peanut": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/eggplant_seed": {
+    "criteria": {
+      "has_eggplant": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/currant_seed": {
+    "criteria": {
+      "has_currant": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/rabbit_stew": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/currant_bag": {
+    "criteria": {
+      "has_currant": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/vegetable_noodles": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/peanut_bag": {
+    "criteria": {
+      "has_peanut": "2026-09-23 16:59:39 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/rhubarb_pie": {
+    "criteria": {
+      "has_rhubarb": "2026-09-23 16:59:40 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/rhubarb_crate": {
+    "criteria": {
+      "has_rhubarb": "2026-09-23 16:59:40 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/rhubarb_seed": {
+    "criteria": {
+      "has_rhubarb": "2026-09-23 16:59:40 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/elderberry_jam": {
+    "criteria": {
+      "has_elderberry": "2026-09-23 16:59:42 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/elderberry_jam": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 16:59:42 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/elderberry_crate": {
+    "criteria": {
+      "has_elderberry": "2026-09-23 16:59:42 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/elderberry_seed": {
+    "criteria": {
+      "has_elderberry": "2026-09-23 16:59:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-09-23 16:59:46 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/kimchi": {
+    "criteria": {
+      "has_kelp": "2026-09-23 16:59:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-09-23 16:59:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-09-23 16:59:46 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flower_box": {
+    "criteria": {
+      "has_item_minecraft_dirt_2": "2026-09-23 17:01:15 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "leek_seed": "2026-09-23 17:04:58 +0200",
+      "sweetpotato_seed": "2026-09-23 17:05:02 +0200",
+      "turnip_seed": "2026-09-23 17:05:13 +0200",
+      "greenonion_seed": "2026-09-23 17:05:19 +0200",
+      "bellpepper_seed": "2026-09-23 17:03:58 +0200",
+      "vanilla_seeds": "2026-09-23 17:03:59 +0200",
+      "broccoli_seed": "2026-09-23 17:28:10 +0200",
+      "yam_seed": "2026-09-23 17:05:07 +0200",
+      "hops_seed": "2026-09-23 17:04:17 +0200",
+      "elderberry_seed": "2026-09-23 17:04:14 +0200",
+      "asparagus_seed": "2026-09-23 17:04:09 +0200",
+      "eggplant_seed": "2026-09-23 17:04:00 +0200",
+      "tomato_seed": "2026-09-23 18:24:54 +0200",
+      "raspberry_seed": "2026-09-23 17:04:15 +0200",
+      "lettuce_seed": "2026-09-23 18:24:56 +0200",
+      "greenbean_seed": "2026-09-23 17:28:12 +0200",
+      "pepper_seed": "2026-09-23 18:03:17 +0200",
+      "squash_seed": "2026-09-23 17:05:03 +0200",
+      "chile_pepper_seed": "2026-09-23 17:28:11 +0200",
+      "cabbage_seed": "2026-09-23 17:03:52 +0200",
+      "tomatillo_seed": "2026-09-23 17:27:58 +0200",
+      "rhubarb_seed": "2026-09-23 17:28:04 +0200",
+      "turmeric_seed": "2026-09-23 17:04:11 +0200",
+      "corn_seed": "2026-09-23 17:04:06 +0200",
+      "olive_seed": "2026-09-23 17:04:12 +0200",
+      "oat_seed": "2026-09-23 17:03:56 +0200",
+      "mustard_seed": "2026-09-23 18:25:02 +0200",
+      "onion_seed": "2026-09-23 17:04:57 +0200",
+      "currant_seed": "2026-09-23 17:03:54 +0200",
+      "zucchini_seed": "2026-09-23 17:05:11 +0200",
+      "kiwi_seed": "2026-09-23 17:28:01 +0200",
+      "blueberry_seed": "2026-09-23 17:27:48 +0200",
+      "ginger_seed": "2026-09-23 17:04:19 +0200",
+      "soybean_seed": "2026-09-23 17:27:53 +0200",
+      "rutabaga_seed": "2026-09-23 17:27:54 +0200",
+      "garlic_seed": "2026-09-23 17:27:51 +0200",
+      "celery_seed": "2026-09-23 17:04:07 +0200"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2026-09-23 17:03:52 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "lettuce_seed": "2026-09-23 18:24:56 +0200",
+      "mustard_seed": "2026-09-23 18:25:02 +0200",
+      "greenbean_seed": "2026-09-23 17:28:12 +0200",
+      "sweetpotato_seed": "2026-09-23 17:05:02 +0200",
+      "pepper_seed": "2026-09-23 18:03:17 +0200",
+      "chile_pepper_seed": "2026-09-23 17:28:11 +0200",
+      "cabbage_seed": "2026-09-23 17:03:52 +0200",
+      "bellpepper_seed": "2026-09-23 17:03:58 +0200",
+      "soybean_seed": "2026-09-23 17:27:53 +0200",
+      "corn_seed": "2026-09-23 17:04:06 +0200",
+      "oat_seed": "2026-09-23 17:03:56 +0200",
+      "broccoli_seed": "2026-09-23 17:28:10 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "currant_seed": "2026-09-23 17:03:54 +0200",
+      "asparagus_seed": "2026-09-23 17:04:09 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "onion_seed": "2026-09-23 17:04:57 +0200",
+      "greenonion_seed": "2026-09-23 17:05:19 +0200",
+      "turnip_seed": "2026-09-23 17:05:13 +0200",
+      "rhubarb_seed": "2026-09-23 17:28:04 +0200",
+      "eggplant_seed": "2026-09-23 17:04:00 +0200",
+      "garlic_seed": "2026-09-23 17:27:51 +0200",
+      "vanilla_seeds": "2026-09-23 17:03:59 +0200",
+      "peanut_seed": "2026-09-23 17:03:55 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "elderberry_seed": "2026-09-23 17:04:14 +0200",
+      "tomatillo_seed": "2026-09-23 17:27:58 +0200",
+      "blueberry_seed": "2026-09-23 17:27:48 +0200",
+      "tomato_seed": "2026-09-23 18:24:54 +0200",
+      "celery_seed": "2026-09-23 17:04:07 +0200",
+      "raspberry_seed": "2026-09-23 17:04:15 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "leek_seed": "2026-09-23 17:04:58 +0200",
+      "yam_seed": "2026-09-23 17:05:07 +0200",
+      "hops_seed": "2026-09-23 17:04:17 +0200",
+      "squash_seed": "2026-09-23 17:05:03 +0200",
+      "zucchini_seed": "2026-09-23 17:05:11 +0200",
+      "kiwi_seed": "2026-09-23 17:28:01 +0200",
+      "ginger_seed": "2026-09-23 17:04:19 +0200",
+      "rutabaga_seed": "2026-09-23 17:27:54 +0200",
+      "turmeric_seed": "2026-09-23 17:04:11 +0200",
+      "olive_seed": "2026-09-23 17:04:12 +0200"
+    },
+    "done": true
+  },
+  "windchimes:recipes/decorations/dreamcatcher": {
+    "criteria": {
+      "has_material": "2026-09-23 17:21:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-09-23 17:21:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-09-23 17:21:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2026-09-23 17:21:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 17:21:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2026-09-23 17:21:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-09-23 17:21:35 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2026-09-23 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2026-09-23 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2026-09-23 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/apple_crate": {
+    "criteria": {
+      "has_apple": "2026-09-23 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/apple_jelly": {
+    "criteria": {
+      "has_apple": "2026-09-23 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2026-09-23 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/apple_cider": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/bone_broth": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 17:26:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-09-23 17:26:09 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2026-09-23 17:26:09 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_jungle": {
+    "criteria": {
+      "grapefruit_sapling": "2026-09-23 17:26:57 +0200",
+      "cinnamon_sapling": "2026-09-23 17:26:53 +0200",
+      "banana_sapling": "2026-09-23 17:26:58 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_tree_all": {
+    "criteria": {
+      "pear_sapling": "2026-09-23 17:26:57 +0200",
+      "apricot_sapling": "2026-09-23 17:26:56 +0200",
+      "grapefruit_sapling": "2026-09-23 17:26:57 +0200",
+      "cinnamon_sapling": "2026-09-23 17:26:53 +0200",
+      "apple_sapling": "2026-09-23 17:26:56 +0200",
+      "cashew_sapling": "2026-09-23 17:26:53 +0200",
+      "avocado_sapling": "2026-09-23 17:26:53 +0200",
+      "plum_sapling": "2026-09-23 17:28:36 +0200",
+      "banana_sapling": "2026-09-23 17:26:58 +0200",
+      "cherry_sapling": "2026-09-23 17:26:55 +0200",
+      "lime_sapling": "2026-09-23 17:26:54 +0200",
+      "persimmon_sapling": "2026-09-23 17:26:56 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_tree_forest": {
+    "criteria": {
+      "apricot_sapling": "2026-09-23 17:26:56 +0200",
+      "pear_sapling": "2026-09-23 17:26:57 +0200",
+      "avocado_sapling": "2026-09-23 17:26:53 +0200",
+      "plum_sapling": "2026-09-23 17:28:36 +0200",
+      "cherry_sapling": "2026-09-23 17:26:55 +0200",
+      "lime_sapling": "2026-09-23 17:26:54 +0200",
+      "starfruit_sapling": "2026-09-23 17:26:53 +0200",
+      "persimmon_sapling": "2026-09-23 17:26:56 +0200"
+    },
+    "done": false
+  },
+  "croptopia:gather_tree_dark_forest": {
+    "criteria": {
+      "cashew_sapling": "2026-09-23 17:26:53 +0200"
+    },
+    "done": false
+  },
+  "croptopia:getsapling": {
+    "criteria": {
+      "has_sapling": "2026-09-23 17:26:53 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_plains": {
+    "criteria": {
+      "apple_sapling": "2026-09-23 17:26:56 +0200"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/plum_sapling": {
+    "criteria": {
+      "has_plum": "2026-09-23 17:26:59 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2026-09-23 17:28:56 +0200"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/bread_bag": {
+    "criteria": {
+      "has_bread": "2026-09-23 17:28:56 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2026-09-23 17:28:56 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-09-23 17:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-09-23 17:30:07 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-09-23 17:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-09-23 17:30:07 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_wall_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-09-23 20:10:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/orange_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_white": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_stairs_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "ratatouille:recipes/misc/crafting/chef_hat_with_goggles": {
+    "criteria": {
+      "has_item": "2026-09-23 21:09:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-09-23 19:09:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_blue": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/light_blue_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bellows": {
+    "criteria": {
+      "has_item_minecraft_leather_2": "2026-09-23 20:10:33 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2026-09-23 19:09:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2026-09-23 18:38:16 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_lime": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2026-09-23 18:20:08 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_salt": "2026-09-23 18:41:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2026-09-23 19:33:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2026-09-23 18:54:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/magenta_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bucket": {
+    "criteria": {
+      "has_item_minecraft_bucket_2": "2026-09-23 18:35:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2026-09-23 18:34:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "natures_delight:recipes/cooking/cheese": {
+    "criteria": {
+      "has_milk": "2026-09-23 20:42:21 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-09-23 20:10:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-09-23 20:13:00 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2026-09-23 18:19:45 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_yellow": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/green_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_white_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/mustard_crate": {
+    "criteria": {
+      "has_mustard": "2026-09-23 18:18:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-09-23 18:30:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_green": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/black_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/misc/tankard": {
+    "criteria": {
+      "has_nugget": "2026-09-23 21:08:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-09-23 19:01:42 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/planter_rich_fd": {
+    "criteria": {
+      "has_item_minecraft_bone_meal_2": "2026-09-23 19:33:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/cyan_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2026-09-23 21:14:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_cyan": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-09-23 20:10:33 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/aviators_goggles": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 21:09:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_slab_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 19:34:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_salt": "2026-09-23 18:41:21 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2026-09-23 20:54:20 +0200",
+      "wheat": "2026-09-23 19:33:26 +0200"
+    },
+    "done": false
+  },
+  "aeronautics:recipes/misc/purple_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 20:42:21 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/lettuce_crate": {
+    "criteria": {
+      "has_lettuce": "2026-09-23 18:19:53 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_black": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_light_gray_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_slab": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/altimeter": {
+    "criteria": {
+      "has_item_minecraft_redstone_2": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/rose_pink_salt_wall": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-09-23 19:33:48 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2026-09-23 18:22:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2026-09-23 20:21:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_red": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2026-09-23 18:54:38 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 20:42:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2026-09-23 19:33:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2026-09-23 18:56:22 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/brown_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "butter": "2026-09-23 20:42:43 +0200",
+      "glowing_calamari": "2026-09-23 19:09:07 +0200"
+    },
+    "done": false
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/cyan_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_stairs_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-09-23 20:10:32 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-09-23 20:50:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/light_gray_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2026-09-23 18:56:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2026-09-23 19:34:26 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/squid_ink_pasta": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 19:34:26 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2026-09-23 21:10:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lettuce_seed": {
+    "criteria": {
+      "has_lettuce": "2026-09-23 18:19:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2026-09-23 18:54:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 21:08:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 18:34:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2026-09-23 19:33:48 +0200",
+      "minecraft:chicken": "2026-09-23 21:14:29 +0200",
+      "minecraft:sheep": "2026-09-23 19:33:50 +0200"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_bricks_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-09-23 20:10:33 +0200"
+    },
+    "done": true
+  },
+  "grapplemod:core/root": {
+    "criteria": {
+      "grappling_hook_acquired": "2026-09-23 20:10:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 20:10:32 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/glow_berry_custard": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 20:42:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_gray_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_yellow_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2026-09-23 18:18:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_red_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-09-23 18:31:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-09-23 19:01:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-09-23 18:37:04 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/brown_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-09-23 18:20:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-09-23 18:52:24 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_item_minecraft_cobblestone_2": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-09-23 20:10:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2026-09-23 21:10:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_rose_pink_salt_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/pink_salt_wall": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-09-23 19:09:42 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_slab": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/jar": {
+    "criteria": {
+      "has_item_minecraft_glass_2": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2026-09-23 18:22:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2026-09-23 21:04:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/gunpowder_bag": {
+    "criteria": {
+      "has_gunpowder": "2026-09-23 19:09:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_pastel_pink_salt_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/food/salted_jerky": {
+    "criteria": {
+      "has_pink_salt_shard": "2026-09-23 18:42:48 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/yellow_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_stairs": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2026-09-23 20:10:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-09-23 21:08:46 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt": {
+    "criteria": {
+      "has_pink_salt_straw": "2026-09-23 19:18:41 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_slab_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sandy_soil": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2026-09-23 19:33:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 17:59:45 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2026-09-23 18:19:45 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2026-09-23 20:21:49 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/redstone_accumulator": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/pink_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-09-23 18:19:45 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/magenta_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2026-09-23 20:42:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-09-23 20:10:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/purple_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-09-23 19:08:04 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_lime_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-09-23 18:34:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2026-09-23 18:35:08 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/redstone_inductor": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2026-09-23 21:04:26 +0200"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/egg_crate": {
+    "criteria": {
+      "has_egg": "2026-09-23 18:19:45 +0200"
+    },
+    "done": true
+  },
+  "fungidelight:recipes/food/inky_cap_salad": {
+    "criteria": {
+      "has_bowl": "2026-09-23 20:21:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/adjustable_burner": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-09-23 18:35:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-09-23 19:07:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2026-09-23 21:14:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_stairs": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2026-09-23 19:09:07 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bottle": {
+    "criteria": {
+      "has_item_minecraft_glass_bottle_2": "2026-09-23 21:04:10 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/black_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_white": {
+    "criteria": {
+      "has_white_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/lime_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/yellow_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/orange_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-09-23 19:07:37 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/blue_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2026-09-23 18:33:50 +0200"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2026-09-23 21:09:45 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_light_gray": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_blue_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2026-09-23 19:25:19 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/tomato_sauce": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 19:34:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-09-23 20:31:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/gray_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2026-09-23 18:34:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_purple": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/gunpowder_from_pink_salt_shard": {
+    "criteria": {
+      "has_pink_salt_shard": "2026-09-23 18:42:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_magenta_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_brown": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_orange": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/blue_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2026-09-23 19:25:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pastel_pink_salt_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_pink_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_purple_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2026-09-23 18:21:35 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2026-09-23 20:45:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-09-23 18:52:24 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2026-09-23 18:22:06 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_pink": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/pastel_pink_salt_wall": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/hot_cocoa": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 20:42:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2026-09-23 18:01:16 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/gray_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_light_blue_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-09-23 20:31:36 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/red_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/palladium_bomb": {
+    "criteria": {
+      "has_gunpowder": "2026-09-23 19:09:42 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2026-09-23 20:42:21 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-09-23 18:52:24 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_brick_slab_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-09-23 18:11:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-09-23 18:20:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-09-23 19:20:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_cyan_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_green_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_blocks_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_blocks_colorless": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_wall_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/white_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "natures_delight:recipes/cooking/alfredo_pasta": {
+    "criteria": {
+      "has_raw_pasta": "2026-09-23 20:42:27 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2026-09-23 20:21:49 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2026-09-23 18:19:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-09-23 18:01:16 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_meatballs": "2026-09-23 20:28:53 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2026-09-23 18:26:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/cured_membrane": {
+    "criteria": {
+      "has_pink_salt_shard": "2026-09-23 18:42:48 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/red_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/farmersdelight_crafting/pasta_with_meatballs": {
+    "criteria": {
+      "has_the_recipe": "2026-09-23 20:10:32 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2026-09-23 20:28:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2026-09-23 21:09:30 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-09-23 19:11:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-23 21:04:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_brick_stairs_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2026-09-23 19:34:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/light_gray_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2026-09-23 19:34:26 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/green_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/light_blue_chair": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2026-09-23 18:38:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-09-23 21:01:32 +0200"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2026-09-23 18:01:18 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/lime_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_black_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_orange_2": {
+    "criteria": {
+      "has_tag_c_strings_1": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2026-09-23 18:35:08 +0200"
+    },
+    "done": true
+  },
+  "ratatouille:recipes/misc/crafting/chef_hat": {
+    "criteria": {
+      "has_item": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/pink_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-09-23 19:33:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "croptopia:salt": {
+    "criteria": {
+      "salt": "2026-09-23 18:41:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2026-09-23 20:21:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_magenta": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pastel_pink_salt_brick_wall_from_pastel_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pastel_pink_salt": "2026-09-23 18:50:17 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2026-09-23 18:41:21 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2026-09-23 18:25:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-09-23 18:56:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_light_blue": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-09-23 19:09:42 +0200"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/berry_crate": {
+    "criteria": {
+      "has_sweet_berries": "2026-09-23 21:10:49 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_gray": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-09-23 18:01:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2026-09-23 17:59:49 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2026-09-23 18:44:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2026-09-23 20:50:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2026-09-23 21:14:19 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/rope_coupling": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2026-09-23 18:34:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2026-09-23 18:09:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-09-23 18:45:23 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/white_envelope": {
+    "criteria": {
+      "has_ingredient": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2026-09-23 18:41:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2026-09-23 18:56:22 +0200"
+    },
+    "done": true
+  },
+  "ratatouille:recipes/misc/crafting/bone_meal": {
+    "criteria": {
+      "has_item": "2026-09-23 18:19:45 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_bricks_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2026-09-23 19:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-23 21:09:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-09-23 18:53:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2026-09-23 20:10:32 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lime_sapling": {
+    "criteria": {
+      "has_lime": "2026-09-23 21:10:49 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2026-09-23 18:19:45 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
