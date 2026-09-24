@@ -3691,6 +3691,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "beef_stew": "2026-09-24 18:09:37 +0200",
       "pasta_with_meatballs": "2026-09-23 19:17:57 +0200"
     },
     "done": false
@@ -5924,12 +5925,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
-    "criteria": {
-      "has_item": "2026-09-23 21:42:16 +0200"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2026-09-23 21:41:03 +0200"
@@ -5945,18 +5940,6 @@
   "simulated:recipes/misc/redstone_magnet": {
     "criteria": {
       "has_ingredient": "2026-09-23 21:41:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2026-09-23 21:59:18 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2026-09-23 21:49:22 +0200"
     },
     "done": true
   },
@@ -6014,39 +5997,15 @@
     },
     "done": true
   },
-  "create:millstone": {
-    "criteria": {
-      "0": "2026-09-23 22:17:43 +0200"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2026-09-23 21:41:03 +0200"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2026-09-23 21:41:26 +0200"
-    },
-    "done": true
-  },
-  "create:belt": {
-    "criteria": {
-      "0": "2026-09-23 21:52:47 +0200"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2026-09-23 21:41:03 +0200"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2026-09-23 21:42:31 +0200"
     },
     "done": true
   },
@@ -6098,12 +6057,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2026-09-23 21:49:22 +0200"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2026-09-23 21:41:03 +0200"
@@ -6125,6 +6078,582 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2026-09-23 21:41:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2026-09-23 21:41:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2026-09-23 21:42:16 +0200"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-09-23 21:42:31 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2026-09-23 21:49:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2026-09-23 21:49:22 +0200"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2026-09-23 21:52:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-09-23 21:59:18 +0200"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2026-09-23 22:17:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_black": {
+    "criteria": {
+      "has_needed_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_black": {
+    "criteria": {
+      "has_needed_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-24 17:07:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2026-09-24 17:32:17 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2026-09-24 17:32:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2026-09-24 17:57:24 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/wooden_propeller_from_andesite": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 17:59:04 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/andesite_propeller": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 17:59:04 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:recipes/misc/andesite_propeller_from_andesite": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 17:59:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2026-09-24 17:59:08 +0200"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2026-09-24 17:59:10 +0200"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2026-09-24 17:59:44 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2026-09-24 18:09:37 +0200"
+    },
+    "done": true
+  },
+  "simulated:get_a_grip": {
+    "criteria": {
+      "0": "2026-09-24 18:15:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-09-24 18:15:49 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/cyan_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/brown_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/magenta_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/white_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/red_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/orange_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/black_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/copper_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/purple_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/light_gray_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/blue_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/gray_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/light_blue_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/yellow_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/pink_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/lime_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/green_handle": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:38:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_window": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:39:30 +0200"
+    },
+    "done": true
+  },
+  "offroad:recipes/misc/rockcutting_wheel": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:39:30 +0200"
+    },
+    "done": true
+  },
+  "offroad:recipes/misc/borehead_bearing": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 18:39:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-09-24 18:41:40 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bottle": {
+    "criteria": {
+      "has_item_minecraft_glass_bottle_2": "2026-09-24 18:46:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2026-09-24 18:51:14 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2026-09-24 18:51:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-09-24 18:51:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-09-24 18:51:14 +0200"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2026-09-24 19:01:33 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2026-09-24 19:01:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2026-09-24 19:01:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2026-09-24 19:01:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2026-09-24 19:01:35 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2026-09-24 19:04:22 +0200"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2026-09-24 19:04:37 +0200"
+    },
+    "done": true
+  },
+  "simulated:not_gonna_sugarcoat_it": {
+    "criteria": {
+      "0": "2026-09-24 19:04:42 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:head_in_the_clouds": {
+    "criteria": {
+      "0": "2026-09-24 19:05:20 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/contraption_diagram": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 19:05:25 +0200"
+    },
+    "done": true
+  },
+  "simulated:applied_kinematics": {
+    "criteria": {
+      "0": "2026-09-24 19:05:25 +0200"
+    },
+    "done": true
+  },
+  "simulated:learning_the_ropes": {
+    "criteria": {
+      "0": "2026-09-24 19:09:42 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/misc/red_portable_engine": {
+    "criteria": {
+      "has_the_recipe": "2026-09-24 19:11:20 +0200"
+    },
+    "done": true
+  },
+  "simulated:steamless_engine": {
+    "criteria": {
+      "0": "2026-09-24 19:12:12 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:for_every_action": {
+    "criteria": {
+      "0": "2026-09-24 19:12:13 +0200"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_oak_door": {
+    "criteria": {
+      "has_items": "2026-09-24 19:32:45 +0200"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_oak_door": {
+    "criteria": {
+      "has_items": "2026-09-24 19:32:45 +0200"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_oak_door_sawmill": {
+    "criteria": {
+      "has_items": "2026-09-24 19:32:45 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2026-09-24 19:33:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2026-09-24 19:36:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-09-24 19:36:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-09-24 19:36:16 +0200"
     },
     "done": true
   },
