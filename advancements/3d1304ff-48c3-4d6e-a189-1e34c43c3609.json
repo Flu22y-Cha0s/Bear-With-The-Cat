@@ -7978,15 +7978,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+  "simulated:you_spin_me_right_round": {
     "criteria": {
-      "has_item": "2026-09-25 20:06:37 +0200"
-    },
-    "done": true
-  },
-  "simulated:measure_once_build_twice": {
-    "criteria": {
-      "0": "2026-09-25 20:15:07 +0200"
+      "0": "2026-09-25 19:54:56 +0200"
     },
     "done": true
   },
@@ -7996,15 +7990,21 @@
     },
     "done": true
   },
-  "simulated:you_spin_me_right_round": {
-    "criteria": {
-      "0": "2026-09-25 19:54:56 +0200"
-    },
-    "done": true
-  },
   "create:recipes/misc/white_sail": {
     "criteria": {
       "has_ingredient": "2026-09-25 20:00:44 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+    "criteria": {
+      "has_item": "2026-09-25 20:06:37 +0200"
+    },
+    "done": true
+  },
+  "simulated:measure_once_build_twice": {
+    "criteria": {
+      "0": "2026-09-25 20:15:07 +0200"
     },
     "done": true
   },
