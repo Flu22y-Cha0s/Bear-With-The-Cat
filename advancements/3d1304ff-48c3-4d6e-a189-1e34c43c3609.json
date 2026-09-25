@@ -6673,15 +6673,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2026-09-24 22:18:27 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2026-09-24 22:10:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2026-09-24 22:10:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-09-24 22:13:08 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2026-09-24 22:18:27 +0200"
     },
     "done": true
   },
@@ -6706,18 +6718,6 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2026-09-24 22:18:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2026-09-24 22:10:19 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2026-09-24 22:13:08 +0200"
     },
     "done": true
   },
