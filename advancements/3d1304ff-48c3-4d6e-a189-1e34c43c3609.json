@@ -3130,6 +3130,7 @@
     "criteria": {
       "poppy": "2026-09-23 18:49:47 +0200",
       "anemone": "2026-09-24 22:29:23 +0200",
+      "white_tulip": "2026-09-26 18:11:34 +0200",
       "dandelion": "2026-09-24 22:13:08 +0200"
     },
     "done": false
@@ -3520,7 +3521,8 @@
       "glow_berries": "2026-09-25 18:02:27 +0200",
       "potato": "2026-09-25 17:50:04 +0200",
       "wheat": "2026-09-23 19:13:39 +0200",
-      "tomato": "2026-09-23 19:14:09 +0200"
+      "tomato": "2026-09-23 19:14:09 +0200",
+      "carrot": "2026-09-26 13:15:27 +0200"
     },
     "done": false
   },
@@ -8005,6 +8007,876 @@
   "simulated:measure_once_build_twice": {
     "criteria": {
       "0": "2026-09-25 20:15:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_yellow": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_yellow": {
+    "criteria": {
+      "has_tag_c_dyes_yellow_2": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_yellow": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:23 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2026-09-26 11:13:25 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2026-09-26 11:13:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2026-09-26 11:13:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2026-09-26 11:13:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2026-09-26 11:13:25 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_red": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_red": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_red": {
+    "criteria": {
+      "has_tag_c_dyes_red_2": "2026-09-26 11:13:26 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2026-09-26 11:13:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-09-26 11:13:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-09-26 11:13:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-09-26 11:13:28 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_red": {
+    "criteria": {
+      "has_red_wool": "2026-09-26 11:13:28 +0200"
+    },
+    "done": true
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2026-09-26 11:15:14 +0200"
+    },
+    "done": true
+  },
+  "simulated:speed_is_key": {
+    "criteria": {
+      "0": "2026-09-26 11:25:44 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-09-26 11:34:52 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/light_gray_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/cyan_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/lime_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/green_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/white_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/light_blue_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/magenta_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/red_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/blue_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/purple_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/yellow_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/black_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/orange_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/gray_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/pink_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/crafting/brown_chair_from_other_chair": {
+    "criteria": {
+      "has_seat": "2026-09-26 13:17:42 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2026-09-26 14:32:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2026-09-26 14:32:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_light_blue": {
+    "criteria": {
+      "has_tag_c_dyes_light_blue_2": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_light_blue": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_light_blue": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/gray_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/purple_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/pink_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/green_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/light_blue_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/blue_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/brown_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/cyan_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/yellow_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/black_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/light_gray_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/lime_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/white_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/orange_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/red_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:recipes/building_blocks/crafting/magenta_nameplate_from_other_nameplate": {
+    "criteria": {
+      "has_nameplate": "2026-09-26 16:31:27 +0200"
+    },
+    "done": true
+  },
+  "simulated:i_declare_thee": {
+    "criteria": {
+      "0": "2026-09-26 16:32:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_gray": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_gray": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_gray": {
+    "criteria": {
+      "has_tag_c_dyes_gray_2": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 16:59:53 +0200"
+    },
+    "done": true
+  },
+  "aeronautics:high_fashion": {
+    "criteria": {
+      "0": "2026-09-26 17:04:55 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fodder": {
+    "criteria": {
+      "has_item_minecraft_hay_block_1": "2026-09-26 17:27:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-09-26 17:27:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-09-26 17:29:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-09-26 17:30:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-09-26 17:30:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2026-09-26 17:33:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2026-09-26 17:33:28 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2026-09-26 17:33:29 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2026-09-26 17:33:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-09-26 17:36:15 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/strawberry_ice_cream": {
+    "criteria": {
+      "has_the_recipe": "2026-09-26 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipe/croptopia_cooking/strawberry_jam": {
+    "criteria": {
+      "has_the_recipe": "2026-09-26 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/strawberry_crate": {
+    "criteria": {
+      "has_strawberry": "2026-09-26 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_seed": {
+    "criteria": {
+      "has_strawberry": "2026-09-26 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_jam": {
+    "criteria": {
+      "has_strawberry": "2026-09-26 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_smoothie": {
+    "criteria": {
+      "has_strawberry": "2026-09-26 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/strawberry_ice_cream": {
+    "criteria": {
+      "has_strawberry": "2026-09-26 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/mustard_crate": {
+    "criteria": {
+      "has_mustard": "2026-09-26 18:02:16 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2026-09-26 18:02:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-09-26 18:11:34 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/cucumber_crate": {
+    "criteria": {
+      "has_cucumber": "2026-09-26 18:16:07 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cucumber_seed": {
+    "criteria": {
+      "has_cucumber": "2026-09-26 18:16:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/dripstone_tiles_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/dripstone_tile_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/dripstone_tile_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "bits_n_bobs:recipes/building_blocks/dripstone_tile_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2026-09-26 18:18:59 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/green_bean_crate": {
+    "criteria": {
+      "has_greenbean": "2026-09-26 18:20:02 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/greenbean_seed": {
+    "criteria": {
+      "has_greenbean": "2026-09-26 18:20:02 +0200"
     },
     "done": true
   },
