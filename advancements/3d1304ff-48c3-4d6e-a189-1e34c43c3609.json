@@ -409,15 +409,32 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2026-09-23 20:27:59 +0200",
+      "natures_spirit:woody_highlands": "2026-09-26 20:22:57 +0200",
+      "natures_spirit:shrubby_highlands": "2026-09-26 20:26:17 +0200",
+      "natures_spirit:arid_highlands": "2026-09-26 20:26:21 +0200",
       "minecraft:old_growth_pine_taiga": "2026-09-23 20:28:08 +0200",
+      "natures_spirit:aspen_forest": "2026-09-26 20:22:35 +0200",
       "minecraft:forest": "2026-09-23 18:09:46 +0200",
-      "natures_spirit:xeric_plains": "2026-09-23 19:33:13 +0200",
-      "minecraft:deep_dark": "2026-09-23 19:32:44 +0200",
+      "minecraft:taiga": "2026-09-26 20:37:18 +0200",
+      "minecraft:lush_caves": "2026-09-26 20:35:40 +0200",
+      "natures_spirit:wooded_drylands": "2026-09-26 20:07:21 +0200",
+      "natures_spirit:shrubland": "2026-09-26 20:08:47 +0200",
+      "minecraft:cherry_grove": "2026-09-26 20:08:10 +0200",
       "minecraft:birch_forest": "2026-09-24 22:19:02 +0200",
+      "minecraft:old_growth_spruce_taiga": "2026-09-26 20:37:37 +0200",
+      "natures_spirit:coniferous_covert": "2026-09-26 20:36:25 +0200",
+      "natures_spirit:xeric_plains": "2026-09-23 19:33:13 +0200",
+      "natures_spirit:blooming_highlands": "2026-09-26 20:29:56 +0200",
+      "minecraft:dripstone_caves": "2026-09-26 20:20:46 +0200",
+      "minecraft:snowy_taiga": "2026-09-26 20:43:37 +0200",
+      "natures_spirit:oak_savanna": "2026-09-23 18:23:50 +0200",
+      "minecraft:old_growth_birch_forest": "2026-09-23 20:27:59 +0200",
+      "natures_spirit:boreal_taiga": "2026-09-26 20:36:32 +0200",
+      "minecraft:deep_dark": "2026-09-23 19:32:44 +0200",
+      "minecraft:swamp": "2026-09-26 21:16:38 +0200",
+      "minecraft:meadow": "2026-09-26 20:33:43 +0200",
       "minecraft:savanna": "2026-09-23 20:03:59 +0200",
-      "minecraft:plains": "2026-09-23 16:30:51 +0200",
-      "natures_spirit:oak_savanna": "2026-09-23 18:23:50 +0200"
+      "minecraft:plains": "2026-09-23 16:30:51 +0200"
     },
     "done": false
   },
@@ -8877,6 +8894,156 @@
   "croptopia:recipes/misc/greenbean_seed": {
     "criteria": {
       "has_greenbean": "2026-09-26 18:20:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2026-09-26 20:18:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2026-09-26 20:18:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2026-09-26 20:18:26 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_palladium_block": {
+    "criteria": {
+      "has_raw_palladium": "2026-09-26 20:42:30 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/palladium_ingot_from_blasting_raw_palladium": {
+    "criteria": {
+      "has_raw_palladium": "2026-09-26 20:42:30 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/palladium_ingot_from_smelting_raw_palladium": {
+    "criteria": {
+      "has_raw_palladium": "2026-09-26 20:42:30 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-26 21:40:39 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-26 21:40:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-26 21:40:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-26 21:40:39 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/crystal_display": {
+    "criteria": {
+      "has_item_minecraft_amethyst_shard_2": "2026-09-26 21:40:39 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "simulated:call_of_the_void": {
+    "criteria": {
+      "0": "2026-09-26 21:05:11 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-26 21:40:39 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2026-09-26 21:40:33 +0200"
     },
     "done": true
   },
