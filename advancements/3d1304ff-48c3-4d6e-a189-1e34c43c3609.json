@@ -2854,6 +2854,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2026-09-23 18:20:27 +0200",
+      "minecraft:pig": "2026-09-28 17:02:44 +0200",
       "minecraft:sheep": "2026-09-23 18:43:38 +0200"
     },
     "done": false
@@ -3544,6 +3545,7 @@
       "red_mushroom": "2026-09-27 11:38:13 +0200",
       "wheat": "2026-09-23 19:13:39 +0200",
       "tomato": "2026-09-23 19:14:09 +0200",
+      "rice": "2026-09-28 17:34:16 +0200",
       "brown_mushroom": "2026-09-27 11:38:09 +0200",
       "carrot": "2026-09-26 13:15:27 +0200"
     },
@@ -4208,6 +4210,7 @@
       "elderberry_seed": "2026-09-23 19:25:47 +0200",
       "asparagus_seed": "2026-09-23 19:25:46 +0200",
       "eggplant_seed": "2026-09-23 19:25:47 +0200",
+      "barley_seed": "2026-09-28 17:47:44 +0200",
       "tomato_seed": "2026-09-23 19:25:33 +0200",
       "raspberry_seed": "2026-09-25 18:42:14 +0200",
       "lettuce_seed": "2026-09-23 19:25:33 +0200",
@@ -4284,17 +4287,18 @@
   "croptopia:gather_plains": {
     "criteria": {
       "lettuce_seed": "2026-09-23 19:25:33 +0200",
-      "mustard_seed": "2026-09-23 19:25:33 +0200",
       "greenbean_seed": "2026-09-23 19:25:33 +0200",
       "pepper_seed": "2026-09-23 19:25:33 +0200",
       "sweetpotato_seed": "2026-09-25 18:42:14 +0200",
       "chile_pepper_seed": "2026-09-23 19:25:33 +0200",
       "cabbage_seed": "2026-09-23 19:25:47 +0200",
       "bellpepper_seed": "2026-09-23 19:25:47 +0200",
-      "soybean_seed": "2026-09-23 19:25:47 +0200",
       "corn_seed": "2026-09-23 19:25:47 +0200",
       "broccoli_seed": "2026-09-23 19:25:47 +0200",
-      "oat_seed": "2026-09-25 18:41:49 +0200"
+      "oat_seed": "2026-09-25 18:41:49 +0200",
+      "mustard_seed": "2026-09-23 19:25:33 +0200",
+      "soybean_seed": "2026-09-23 19:25:47 +0200",
+      "barley_seed": "2026-09-28 17:47:44 +0200"
     },
     "done": false
   },
@@ -9656,6 +9660,114 @@
   "comforts:recipes/decorations/hammock_light_blue": {
     "criteria": {
       "has_light_blue_wool": "2026-09-27 16:14:16 +0200"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2026-09-28 16:45:00 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/lettuce_crate": {
+    "criteria": {
+      "has_lettuce": "2026-09-28 16:50:04 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lettuce_seed": {
+    "criteria": {
+      "has_lettuce": "2026-09-28 16:50:04 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2026-09-28 17:08:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-09-28 17:17:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2026-09-28 17:18:36 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2026-09-28 17:18:36 +0200"
+    },
+    "done": true
+  },
+  "cratedelightcroptopia:recipes/building_blocks/hops_crate": {
+    "criteria": {
+      "has_hops": "2026-09-28 17:47:14 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beer": {
+    "criteria": {
+      "has_hops": "2026-09-28 17:47:14 +0200"
+    },
+    "done": true
+  },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "beer": "2026-09-28 17:53:22 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2026-09-28 17:34:20 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2026-09-28 17:34:20 +0200"
+    },
+    "done": true
+  },
+  "croptopia:food_press": {
+    "criteria": {
+      "food_press": "2026-09-28 17:50:35 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/macaron": {
+    "criteria": {
+      "has_food_press": "2026-09-28 17:50:35 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2026-09-28 17:34:16 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/hops_seed": {
+    "criteria": {
+      "has_hops": "2026-09-28 17:47:14 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/ground_pork": {
+    "criteria": {
+      "has_food_press": "2026-09-28 17:50:35 +0200"
+    },
+    "done": true
+  },
+  "croptopia:getdrinks": {
+    "criteria": {
+      "has_drink": "2026-09-28 17:53:53 +0200"
     },
     "done": true
   },
