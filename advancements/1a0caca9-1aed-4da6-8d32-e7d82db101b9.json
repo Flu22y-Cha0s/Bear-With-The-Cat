@@ -8693,21 +8693,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+  "minecraft:wander_add_map": {
     "criteria": {
-      "has_sandstone": "2026-09-28 17:18:36 +0200"
+      "wandering": "2026-09-28 16:38:08 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_sandstone": "2026-09-28 17:18:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
+      "traded": "2026-09-28 16:38:19 +0200"
     },
     "done": true
   },
@@ -8717,11 +8711,35 @@
     },
     "done": true
   },
-  "croptopia:gather_drinks": {
+  "fungidelight:recipes/cooking/cooking/rabbit_with_morels": {
     "criteria": {
-      "beer": "2026-09-28 17:53:49 +0200"
+      "has_morel": "2026-09-28 16:38:20 +0200"
     },
-    "done": false
+    "done": true
+  },
+  "fungidelight:recipes/cooking/cooking/stuffed_morels": {
+    "criteria": {
+      "has_morel": "2026-09-28 16:38:20 +0200"
+    },
+    "done": true
+  },
+  "fungidelight:recipes/building_blocks/morel_mushroom_crate": {
+    "criteria": {
+      "has_morel_mushroom": "2026-09-28 16:38:20 +0200"
+    },
+    "done": true
+  },
+  "fungidelight:recipes/food/suspicious_stew_from_morel_mushroom": {
+    "criteria": {
+      "has_ingredient": "2026-09-28 16:38:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
@@ -8735,39 +8753,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-09-28 17:40:37 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-09-28 17:13:42 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2026-09-28 17:40:37 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2026-09-28 17:18:36 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
-    "criteria": {
-      "has_item": "2026-09-28 17:50:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2026-09-28 17:14:28 +0200"
     },
     "done": true
   },
@@ -8783,9 +8771,87 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_backtank": {
+  "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
-      "has_item": "2026-09-28 17:59:52 +0200"
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-09-28 17:13:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-09-28 17:14:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-09-28 17:18:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-09-28 17:18:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2026-09-28 17:18:36 +0200"
     },
     "done": true
   },
@@ -8807,51 +8873,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2026-09-28 17:18:36 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
-    },
-    "done": true
-  },
-  "fungidelight:recipes/cooking/cooking/rabbit_with_morels": {
-    "criteria": {
-      "has_morel": "2026-09-28 16:38:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:wander_add_map": {
-    "criteria": {
-      "wandering": "2026-09-28 16:38:08 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2026-09-28 17:18:36 +0200"
-    },
-    "done": true
-  },
-  "create:diving_suit": {
-    "criteria": {
-      "0": "2026-09-28 18:00:03 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
     },
     "done": true
   },
@@ -8867,57 +8897,39 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
-      "traded": "2026-09-28 16:38:19 +0200"
+      "has_sandstone": "2026-09-28 17:18:36 +0200"
     },
     "done": true
   },
-  "create:backtank": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "0": "2026-09-28 18:02:14 +0200"
+      "has_stripped_logs": "2026-09-28 17:40:37 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
+      "has_log": "2026-09-28 17:40:37 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
     "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
+      "has_item": "2026-09-28 17:50:27 +0200"
     },
     "done": true
   },
-  "fungidelight:recipes/cooking/cooking/stuffed_morels": {
+  "croptopia:gather_drinks": {
     "criteria": {
-      "has_morel": "2026-09-28 16:38:20 +0200"
+      "beer": "2026-09-28 17:53:49 +0200"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+  "croptopia:getdrinks": {
     "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
-    },
-    "done": true
-  },
-  "fungidelight:recipes/building_blocks/morel_mushroom_crate": {
-    "criteria": {
-      "has_morel_mushroom": "2026-09-28 16:38:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
+      "has_drink": "2026-09-28 17:53:51 +0200"
     },
     "done": true
   },
@@ -8927,33 +8939,207 @@
     },
     "done": true
   },
-  "fungidelight:recipes/food/suspicious_stew_from_morel_mushroom": {
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
     "criteria": {
-      "has_ingredient": "2026-09-28 16:38:20 +0200"
+      "has_item": "2026-09-28 17:59:52 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+  "create:diving_suit": {
     "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
+      "0": "2026-09-28 18:00:03 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "create:backtank": {
     "criteria": {
-      "has_sandstone": "2026-09-28 17:18:36 +0200"
+      "0": "2026-09-28 18:02:14 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
     "criteria": {
-      "has_blackstone": "2026-09-28 17:13:42 +0200"
+      "has_barrel": "2026-09-29 18:15:03 +0200"
     },
     "done": true
   },
-  "croptopia:getdrinks": {
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
     "criteria": {
-      "has_drink": "2026-09-28 17:53:51 +0200"
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "ratatouille:recipes/misc/crafting/irrigation_tower": {
+    "criteria": {
+      "has_item": "2026-09-29 18:15:05 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "ratatouille:recipes/misc/crafting/compost_tower": {
+    "criteria": {
+      "has_item": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "galosphere:adventure/eye_for_eye": {
+    "criteria": {
+      "eye_for_eye": "2026-09-29 18:28:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-09-29 18:17:57 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2026-09-29 18:15:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2026-09-29 18:15:03 +0200"
     },
     "done": true
   },
