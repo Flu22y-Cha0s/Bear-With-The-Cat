@@ -9782,45 +9782,15 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/allurite_stairs": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+      "shot_arrow": "2026-09-29 16:38:26 +0200"
     },
     "done": true
   },
-  "galosphere:recipes/transportation/rope_dart": {
+  "galosphere:recipes/misc/palladium_ingot_from_nuggets": {
     "criteria": {
-      "has_allurite_shard": "2026-09-29 18:15:02 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/allurite_bricks_from_allurite_block_stonecutting": {
-    "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/allurite_lamp": {
-    "criteria": {
-      "has_allurite_shard": "2026-09-29 18:15:02 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2026-09-29 17:21:24 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2026-09-29 17:21:24 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_allurite_slab_from_allurite_block_stonecutting": {
-    "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+      "has_palladium_nugget": "2026-09-29 17:20:44 +0200"
     },
     "done": true
   },
@@ -9836,39 +9806,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2026-09-29 16:38:26 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_allurite_stairs_from_allurite_block_stonecutting": {
-    "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/chiseled_allurite_from_allurite_block_stonecutting": {
-    "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/palladium_ingot_from_nuggets": {
-    "criteria": {
-      "has_palladium_nugget": "2026-09-29 17:20:44 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2026-09-29 17:21:23 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/lumiere_block": {
-    "criteria": {
-      "has_lumiere_shard": "2026-09-29 18:16:20 +0200"
     },
     "done": true
   },
@@ -9884,12 +9824,6 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/allurite_block": {
-    "criteria": {
-      "has_allurite_shard": "2026-09-29 18:15:02 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2026-09-29 17:21:23 +0200"
@@ -9902,15 +9836,45 @@
     },
     "done": true
   },
-  "comforts:recipes/decorations/hammock_orange": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2026-09-29 17:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-09-29 17:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-09-29 17:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-09-29 17:21:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2026-09-29 17:21:24 +0200"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/allurite_slab_from_allurite_block_stonecutting": {
+  "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+      "has_orange_wool": "2026-09-29 17:21:24 +0200"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2026-09-29 17:21:24 +0200"
     },
     "done": true
   },
@@ -9920,15 +9884,75 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/allurite_slab": {
+  "comforts:recipes/decorations/sleeping_bag_orange": {
+    "criteria": {
+      "has_orange_wool": "2026-09-29 17:21:24 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/food/golden_lichen_cordyceps": {
+    "criteria": {
+      "has_lichen_cordyceps": "2026-09-29 17:28:55 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/transportation/rope_dart": {
+    "criteria": {
+      "has_allurite_shard": "2026-09-29 18:15:02 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_allurite_shard": "2026-09-29 18:15:02 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_block": {
+    "criteria": {
+      "has_allurite_shard": "2026-09-29 18:15:02 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_stairs": {
     "criteria": {
       "has_allurite_block": "2026-09-29 18:15:04 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "galosphere:recipes/building_blocks/allurite_bricks_from_allurite_block_stonecutting": {
     "criteria": {
-      "has_sandstone": "2026-09-29 17:21:23 +0200"
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_allurite_stairs_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_allurite_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_slab_from_allurite_block_stonecutting": {
+    "criteria": {
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/allurite_slab": {
+    "criteria": {
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
     },
     "done": true
   },
@@ -9944,33 +9968,33 @@
     },
     "done": true
   },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_lumiere_shard": "2026-09-29 18:16:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2026-09-29 17:21:23 +0200"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/allurite_brick_slab_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2026-09-29 18:15:04 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+  "galosphere:recipes/building_blocks/smooth_allurite_from_allurite_block_stonecutting": {
     "criteria": {
-      "has_sandstone": "2026-09-29 17:21:23 +0200"
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
     },
     "done": true
   },
-  "comforts:recipes/decorations/sleeping_bag_orange": {
+  "galosphere:recipes/building_blocks/smooth_allurite": {
     "criteria": {
-      "has_orange_wool": "2026-09-29 17:21:24 +0200"
+      "has_allurite_block": "2026-09-29 18:15:04 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_block": {
+    "criteria": {
+      "has_lumiere_shard": "2026-09-29 18:16:20 +0200"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_lumiere_shard": "2026-09-29 18:16:20 +0200"
     },
     "done": true
   },
@@ -9983,30 +10007,6 @@
   "galosphere:adventure/eye_for_eye": {
     "criteria": {
       "eye_for_eye": "2026-09-29 18:28:25 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_allurite_from_allurite_block_stonecutting": {
-    "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2026-09-29 17:21:23 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/food/golden_lichen_cordyceps": {
-    "criteria": {
-      "has_lichen_cordyceps": "2026-09-29 17:28:55 +0200"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_allurite": {
-    "criteria": {
-      "has_allurite_block": "2026-09-29 18:15:04 +0200"
     },
     "done": true
   },
